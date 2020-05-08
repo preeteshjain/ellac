@@ -108,13 +108,13 @@ textarea {
 	}
 
 	p {
-		font-family: 'system-ui', serif;
+		font-family: 'system-ui', sans-serif;;
 		margin: 0 0 4rem;
 	}
 
 	ol,
 	ul {
-		font-family: 'system-ui', serif;
+		font-family: 'system-ui', sans-serif;;
 		margin: 0 0 4rem;
 		padding-left: 2em;
 		box-sizing: border-box;
@@ -177,7 +177,7 @@ textarea {
 	}
 
 	blockquote {
-		font-family: 'Inter', serif;
+		font-family: 'Inter', 'system-ui', sans-serif;
 		margin: 0 0 4rem;
 		padding: 0.25em 1em;
 		-moz-box-sizing: border-box;
@@ -219,7 +219,7 @@ textarea {
 	}
 
 	dl {
-		font-family: 'system-ui', serif;
+		font-family: 'system-ui', sans-serif;;
 		margin: 0 0 4rem;
 		padding-left: 30px;
 	}
@@ -784,7 +784,7 @@ textarea {
 }
 
 .blog-description {
-	font-family: 'Inter', serif;
+	font-family: 'Inter', 'system-ui', sans-serif;
 	display: block;
 	margin-top: 1rem;
 	padding: 0;
@@ -854,7 +854,7 @@ textarea {
 		font-size: 2em;
 		line-height: 1.5em;
 		margin: 1rem 0;
-		font-family: 'Inter', serif;
+		font-family: 'Inter', 'system-ui', sans-serif;
 		color: $color-text-secondary;
 		@media (prefers-color-scheme: dark) {
 			color: $color-text-secondary-dark;
@@ -1798,7 +1798,7 @@ textarea {
 
 .post-excerpt {
 	margin: 1em 0 0;
-	font-family: 'Inter', serif;
+	font-family: 'Inter', 'system-ui', sans-serif;
 	font-size: 2em;
 	line-height: 1.5em;
 }
@@ -2211,7 +2211,7 @@ textarea {
 .post-nav-excerpt {
 	height: 5rem;
 	margin: 0 0 1rem;
-	font-family: 'Inter', serif;
+	font-family: 'Inter', 'system-ui', sans-serif;
 	font-size: 1.75em;
 	line-height: 2.5rem;
 	display: -webkit-box;

@@ -2,6 +2,8 @@
 
 A typography focused responsive theme for [Ghost](https://ghost.org). Ellac is based on the [Attila](https://github.com/zutrinken/attila) theme by [Peter Amende](https://github.com/zutrinken).
 
+**[Download](https://github.com/preeteshjain/ellac/releases/latest/download/ellac.zip)**
+
 ## Features
 
 * [Inter](https://github.com/rsms/inter), [Fira Code](https://github.com/tonsky/FiraCode) and [System](https://github.com/jonathantneal/system-font-css) font stack
