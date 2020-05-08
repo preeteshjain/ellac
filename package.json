@@ -1,7 +1,7 @@
 {
-  "name": "attila",
+  "name": "ellac",
   "description": "Ghost Theme",
-  "demo": "https://attila.zutrinken.com",
+  "demo": "https://preeteshjain.com",
   "version": "2.0.1",
   "engines": {
     "ghost": ">=3.0.0",
@@ -13,9 +13,9 @@
     "mobile": "src/screenshot-mobile.jpg"
   },
   "author": {
-    "name": "Peter Amende",
-    "email": "xoxo@zutrinken.com",
-    "url": "https://zutrinken.com"
+    "name": "Preetesh Jain",
+    "email": "preeteshjain17@gmail.com",
+    "url": "https://preeteshjain.com"
   },
   "gpm": {
     "type": "theme",
@@ -31,7 +31,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zutrinken/attila.git"
+    "url": "https://github.com/preeteshjain/ellac.git"
   },
   "dependencies": {
     "ghosthunter": "github:jamalneufeld/ghostHunter"
