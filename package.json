@@ -2,7 +2,7 @@
   "name": "ellac",
   "description": "Ghost Theme",
   "demo": "https://preeteshjain.com",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "engines": {
     "ghost": ">=3.0.0",
     "ghost-api": "v3"
