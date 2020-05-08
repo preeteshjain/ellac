@@ -1,9 +1,10 @@
 # Ellac
 
-A typography focused responsive theme for [Ghost](https://ghost.org).
+A typography focused responsive theme for [Ghost](https://ghost.org). Ellac is based on the [Attila](https://github.com/zutrinken/attila) theme by [Peter Amende](https://github.com/zutrinken).
 
 ## Features
 
+* [Inter](https://github.com/rsms/inter), [Fira Code](https://github.com/tonsky/FiraCode) and [System](https://github.com/jonathantneal/system-font-css) font stack
 * Responsive layout
 * Dark Mode
 * Search
@@ -48,6 +49,6 @@ Build Grunt project:
 
 	grunt build
 
-The compress Grunt task packages the theme files into `dist/<theme-name>.zip`, which you can then upload to your site.
+The `compress` Grunt task packages the theme files into `dist/ellac.zip`, which you can then upload to your site.
 
 	grunt compress
